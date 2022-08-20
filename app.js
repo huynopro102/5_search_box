@@ -1,7 +1,6 @@
 var show_input = document.querySelector('.icon_search')
 var input_search = document.querySelector('.input_search')
 var search_box = document.querySelector('.search_box')
-
 //
 // js,khi onclick vào icon_search thì tự focus vào tag input
 // js,lấy element cha của thẻ nhấp vào , parentElement
